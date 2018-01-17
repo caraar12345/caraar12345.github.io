@@ -1,14 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
 body {
-  background-color: snow
+  background: linear-gradient(143deg, #86F9FF, #61AEB2);
+  width: 100vw;
+  height: 100vh;
 }
-h1 {
-  font-family: Helvetica;
-  font-size: 32pt;
-  margin-left: 50px;
-  margin-top: 50px;
+div#head {
+  font-family: Work Sans;
+  /* color: #86F9FF; */
+  font-size: 3vw;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin-right: 10%;
 }
 p {
-  font-family: Helvetica;
+  font-family: Anonymous Pro;
   font-size: 20pt;
-  margin-left: 50px;
+  /*margin-left: 10%;*/
 }
