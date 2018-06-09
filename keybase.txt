@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/caraar12345
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aaroncarson.co.uk
+  * I am caraar12345 (https://keybase.io/caraar12345) on keybase.
+  * I have a public key ASAQQwNAbQp26Vtd54kkwMIWO80IiSQJqkYMvZsF4oycTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120104303406d0a76e95b5de78924c0c2163bcd08892409aa460cbd9b05e28c9c4f0a",
+      "host": "keybase.io",
+      "kid": "0120104303406d0a76e95b5de78924c0c2163bcd08892409aa460cbd9b05e28c9c4f0a",
+      "uid": "74f684ccbcc37212580480e3c5476319",
+      "username": "caraar12345"
+    },
+    "merkle_root": {
+      "ctime": 1528547143,
+      "hash": "e44d304b7f41e6763aeddd2ebf510c0fab2f3dc95302e7c23e1a68113c53e1f5a6d966858cfd88c6abf21ab03147db3e9e1ad5eb27a7c86947cbdeb66d1af217",
+      "hash_meta": "2428f1c9bb760106ce85c69898c5bc2b58797875cad8449d277b9a1cbdbeb66f",
+      "seqno": 3050776
+    },
+    "service": {
+      "entropy": "NjiKzx66a+cAHYK21l1Yn/oG",
+      "hostname": "aaroncarson.co.uk",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528547171,
+  "expire_in": 504576000,
+  "prev": "ca142d3c1b5cf96b6bbc69d55a29c190686eec5adfc1fa640446cec8543b0a27",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEEMDQG0KdulbXeeJJMDCFjvNCIkkCapGDL2bBeKMnE8Kp3BheWxvYWTESpcCDcQgyhQtPBtc+WtrvGnVWinBkGhu7FrfwfpkBEbOyFQ7CifEIIkjS3+O11gQd4fibb/cIT/N3hPYL0mwWGONrlvI2uLXAgHCo3NpZ8RAzbQalVxSs2Rk+JoKFt9zMANBft9b+225p5ZTXZ7S1Tkxncpo2rZ1IRzdpR90exRJ3cfEMkK7DpBsW8BQwZjQAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICyoFSjPB5omWO6ZRAigGhMmGlnQPgVa2z7awQN1xlZgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caraar12345
+
+==================================================================
